@@ -15,8 +15,8 @@ const Hero = () => {
         <button className="black">Contact Info</button>
       </div>
       <div className="hero-icons">
-        <a href="https://linkedin.com" target="_blank" rel="noreferrer"><FaLinkedin /></a>
-        <a href="https://github.com" target="_blank" rel="noreferrer"><FaGithub /></a>
+        <a href="https://www.linkedin.com/in/vithushana-nirmaleswaran-06aa41329/" target="_blank" rel="noreferrer"><FaLinkedin /></a>
+        <a href="https://github.com/Vithushana" target="_blank" rel="noreferrer"><FaGithub /></a>
       </div>
     </section>
   );

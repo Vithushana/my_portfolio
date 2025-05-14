@@ -75,7 +75,7 @@ html {
 
 .hero h2 {
   font-size: 22px;
-  color: #333;
+  color: #fff;
 }
 
 .hero-buttons {
@@ -124,6 +124,10 @@ html {
   margin: 0 auto;
 }
 
+.fe{
+  color: #020024;
+  font-size: 20px;
+}
 .about-image {
   flex: 1 1 300px;
   text-align: center;

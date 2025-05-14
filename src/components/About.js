@@ -16,12 +16,12 @@ const About = () => {
             I'm pursuing my <strong>3rd year, 2nd semester</strong> in <strong>Information Technology at SLIIT</strong>. I believe in continuous learning and hands-on experience, which I actively reflect in my projects on <a href="https://github.com/Vithushana" target="_blank" rel="noreferrer">GitHub</a>.
           </p>
           <div className="about-skills">
-            <h3>Key Skills:</h3>
+            <h3 className='fe'>Key Skills:</h3>
             <ul>
-              <li>Frontend: HTML, CSS, JavaScript, React</li>
-              <li>Backend: Node.js, Express.js, MongoDB</li>
-              <li>Tools: Git, GitHub, Postman, Figma</li>
-              <li>Others: REST API, IoT Integration, Firebase</li>
+              <li><span className='fe'>Frontend: </span>HTML, CSS, JavaScript, React, Angular</li>
+              <li> <span className='fe'>Backend: </span>Dijango(Python), SpringBoot(Java), MongoDB, MYSQL</li>
+              <li><span className='fe'>Tools: </span>Git, GitHub, Postman, Figma, AsureBoard, Selenium IDE</li>
+              <li><span className='fe'>Others: </span>REST API, Firebase, LLModel</li>
             </ul>
           </div>
         </div>
